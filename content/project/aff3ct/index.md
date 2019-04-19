@@ -1,5 +1,5 @@
 +++
-title = "Aff3ct"
+title = "AFF3CT"
 date = 2019-04-19T10:06:38+02:00
 draft = false
 
@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "AFF3CT is an Open-source software (MIT license) dedicated to the Forward Error Correction (FEC or channel coding) simulations. It is written in C++11 and it supports a large range of codes: from the well-spread Turbo codes to the very new Polar codes including the Low-Density Parity-Check (LDPC) codes. A particular emphasis is given to the simulation throughput performance (hundreds of Mb/s on today's CPUs) and the portability of the code." 
+summary = "AFF3CT is an Open-source software (MIT license) dedicated to the Forward Error Correction (FEC or channel coding) simulations. A particular emphasis is given to the simulation throughput performance (hundreds of Mb/s on today's CPUs) and the portability of the code." 
 # Slides (optional).
 #   Associate this page with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
