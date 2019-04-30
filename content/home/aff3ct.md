@@ -40,10 +40,8 @@ hero_media = "aff3ct.png"
   icon = "github"
   
 [cta_alt]
-  url = "http://aff3ct.github.io/download.html"
-  label = "Download"
-  icon_pack = "fab"
-  icon = "download"
+  url = "http://aff3ct.github.io/"
+  label = "Website"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
