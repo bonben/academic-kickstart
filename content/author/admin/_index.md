@@ -82,7 +82,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Mathieu Léonardon teaches electronics in Bordeaux INP engineering school. His research at the IMS Laboratory in Bordeaux concerns hardware and software implementations of signal processing algorithms. 
+I teach electronics in Bordeaux INP engineering school. My research at the IMS Laboratory in Bordeaux concerns hardware and software implementations of signal processing algorithms. 
 
-His PhD thesis focused on the implementation of polar codes decoders. He proposed the fastest software implementation of the Adaptive SC List decoding algorithm to date. The second main theme was the proposal of flexible ASIP architectures specialized in polar decoding.
+My PhD thesis focused on the implementation of polar codes decoders. I proposed the fastest software implementation of the Adaptive SC List decoding algorithm to date. The second main theme was the proposal of flexible ASIP architectures specialized in polar decoding.
 
