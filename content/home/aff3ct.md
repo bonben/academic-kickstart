@@ -35,7 +35,7 @@ hero_media = "aff3ct.png"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://github.com/aff3ct/aff3ct"
-  label = "Source code on Github"
+  label = "Source code on GitHub"
   icon_pack = "fab"
   icon = "github"
   
@@ -50,6 +50,6 @@ hero_media = "aff3ct.png"
 
 **A Fast Forward Error Correction Toolbox**
 
-Simulate **high-througput** communication chains.
+Simulate **high-throughput** communication chains.
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/aff3ct/aff3ct" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
