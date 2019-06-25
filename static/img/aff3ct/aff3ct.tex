@@ -71,7 +71,7 @@
             ]
 
     % ThunderX2 CN9975
-    \addplot[Paired-5,fill=Paired-5!40,draw=Paired-5,
+    \addplot[white,fill=Paired-5!40,draw=Paired-5,
              postaction={pattern color = black!50!Paired-5!70,
                          pattern=crosshatch dots}
             ]
@@ -79,7 +79,7 @@
     \label{plot1}
 
     % Xeon Phi 7230
-    \addplot[Paired-11,fill=Paired-11!40,draw=Paired-11,
+    \addplot[white,fill=Paired-11!40,draw=Paired-11,
               postaction={pattern color = black!50!Paired-11!70,
                           pattern=horizontal lines}
              ]
@@ -95,7 +95,7 @@
     % \label{plot3}
 
     % Xeon E5-2680 v3
-    \addplot[Paired-9,fill=Paired-9!40,draw=Paired-9,
+    \addplot[white,fill=Paired-9!40,draw=Paired-9,
              postaction={pattern color = black!50!Paired-9!70,
                          pattern=grid}
             ]
@@ -103,7 +103,7 @@
     \label{plot4}
 
     % Xeon Gold 6140
-    \addplot[Paired-1,fill=Paired-1!40,draw=Paired-1,
+    \addplot[white,fill=Paired-1!40,draw=Paired-1,
              postaction={pattern color = black!50!Paired-1!70,
                          pattern=flexible hatch north west}
             ]
@@ -111,19 +111,19 @@
     \label{plot5}
 
     % Xeon Gold 6142
-    \addplot[black!25!Paired-1!80,fill=Paired-1!20,draw=Paired-1!80,
+    \addplot[white,fill=Paired-1!20,draw=Paired-1!80,
              postaction={pattern color = black!50!Paired-1!50,
                          pattern=flexible hatch north east}
             ]
             coordinates {(1T1SMT,121) (NT1SMT,3252)};
     \label{plot6}
 
-    \legend{\color{Paired-5}$2 \times$ThunderX2 CN9975,
-            \color{Paired-11}$1 \times$Xeon Phi 7230,
+    \legend{\color{white}$2 \times$ThunderX2 CN9975,
+            \color{white}$1 \times$Xeon Phi 7230,
             % $1 \times$Ryzen 7 2700X,
-            \color{Paired-9}$2 \times$Xeon E5-2680 v3,
-            \color{Paired-1}$2 \times$Xeon Gold 6140,
-            \color{Paired-1}$2 \times$Xeon Gold 6142,}
+            \color{white}$2 \times$Xeon E5-2680 v3,
+            \color{white}$2 \times$Xeon Gold 6140,
+            \color{white}$2 \times$Xeon Gold 6142,}
 \end{axis}
 \end{tikzpicture}
 \end{document}
