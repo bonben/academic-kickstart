@@ -10,20 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Research and Teaching Assistant in Electronics
+role: Associate Professor in Electronics
 
 # Organizations/Affiliations
 organizations:
-- name: Bordeaux INP
-  url: "https://www.bordeaux-inp.fr/en"
+- name: IMT Atlantique
+  url: "https://www.imt-atlantique.fr/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include software and hardware implementations of signal processing algorithms.
 
 interests:
 - Channel Coding
-- HW / SW Implementation
-- Polar Codes
+- Embedded Electronics
+- HPC
+- AI
 
 education:
   courses:
@@ -44,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mathieu.leonardon@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:mathieu.leonardon@imt-atlantique.fr'  # For a direct email link, use "mailto:test@example.org".
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Mathieu_Leonardon
@@ -70,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-I teach electronics in Bordeaux INP engineering school. My research at the IMS Laboratory in Bordeaux concerns hardware and software implementations of signal processing algorithms. 
+I teach electronics in IMT Atlantique engineering school. My research at the IMT Atlantique in Brest concerns hardware and software implementations of signal processing and AI algorithms. 
 
 My PhD thesis focused on the implementation of polar codes decoders. I proposed the fastest software implementation of the Adaptive SC List decoding algorithm to date. The second main theme was the proposal of flexible ASIP architectures specialized in polar decoding.
