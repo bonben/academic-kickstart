@@ -97,7 +97,7 @@ address = {street = "655 Avenue du Technopôle", city = "Plouzané", region = ""
 coordinates = {latitude = "48.361086", longitude = "-4.572342"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building K2 and take the stairs to Office K2 116A"
+directions = "Enter Building K2 and take the stairs to Office K2 216A"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
