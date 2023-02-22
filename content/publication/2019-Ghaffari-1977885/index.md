@@ -7,5 +7,5 @@ abstract = "The recent evolution of mobile communication systems toward a 5G net
 featured = false
 publication = "IEEE Access (IEEE)"
 doi = "10.1109/ACCESS.2019.2891597"
-url_pdf = "https://hal.archives-ouvertes.fr/hal-01977885/document"
+url_pdf = "https://hal.science/hal-01977885/document"
 +++

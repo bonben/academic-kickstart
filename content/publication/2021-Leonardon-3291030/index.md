@@ -8,5 +8,5 @@ featured = false
 publication = "ISTC 2021: 11th IEEE International Symposium on Topics in Coding"
 tags = ['Polar Codes', 'Deep Neural Networks', 'FEC', 'Code Construction']
 doi = "10.1109/ISTC49272.2021.9594059"
-url_pdf = "https://hal.archives-ouvertes.fr/hal-03291030/document"
+url_pdf = "https://hal.science/hal-03291030/document"
 +++

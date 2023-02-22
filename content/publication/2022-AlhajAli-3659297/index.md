@@ -8,5 +8,5 @@ featured = false
 publication = "IEEE Transactions on Very Large Scale Integration (VLSI) Systems (IEEE)"
 tags = ['Convolutional neural networks CNN', 'Binary neural networks BNN', 'In-memory computing IMC']
 doi = "10.1109/TVLSI.2022.3163233"
-url_pdf = "https://hal-imt-atlantique.archives-ouvertes.fr/hal-03659297/document"
+url_pdf = "https://imt-atlantique.hal.science/hal-03659297/document"
 +++

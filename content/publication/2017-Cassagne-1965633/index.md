@@ -7,5 +7,5 @@ abstract = "This demonstration intends to present AFF3CT (A Fast Forward 3rror C
 featured = false
 publication = "The 20th International Workshop on Signal Processing Systems (SiPS 2017)"
 doi = "10.13140/RG.2.2.10295.42409/1"
-url_pdf = "https://hal.archives-ouvertes.fr/hal-01965633/document"
+url_pdf = "https://hal.science/hal-01965633/document"
 +++

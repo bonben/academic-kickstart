@@ -8,5 +8,5 @@ featured = false
 publication = "The 11th IEEE International Symposium on Topics in Coding (ISTC 2021)"
 tags = ['Real-time system', 'SDR', 'Multicore CPU', 'SIMD', 'DVB-S2 standard', 'Radio transceiver']
 doi = "10.1109/ISTC49272.2021.9594063"
-url_pdf = "https://hal.archives-ouvertes.fr/hal-03336450/document"
+url_pdf = "https://hal.science/hal-03336450/document"
 +++

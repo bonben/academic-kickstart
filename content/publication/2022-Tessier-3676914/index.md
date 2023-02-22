@@ -7,5 +7,5 @@ abstract = "Introduced in the late 1980s for generalization purposes, pruning ha
 featured = true
 publication = "Journal of Imaging (MDPI)"
 doi = "10.3390/jimaging8030064"
-url_pdf = "https://hal.archives-ouvertes.fr/hal-03675138/document"
+url_pdf = "https://hal.science/hal-03675138/document"
 +++

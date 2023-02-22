@@ -8,5 +8,5 @@ featured = true
 publication = "2018 IEEE 10th International Symposium on Turbo Codes & Iterative Information Processing (ISTC)"
 tags = ['Transport Triggered Architectures', 'Polar Codes', 'Hardware Implementation', 'ASIP']
 doi = "10.1109/ISTC.2018.8625310"
-url_pdf = "https://hal.archives-ouvertes.fr/hal-03291077/document"
+url_pdf = "https://hal.science/hal-03291077/document"
 +++
