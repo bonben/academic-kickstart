@@ -56,16 +56,16 @@ social:
   icon_pack: fab
   link: https://github.com/bonben
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mathieu.leonardon@gmail.com"
-  
+
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 - Visitors
@@ -75,4 +75,4 @@ I conduct research at the IMT Atlantique in Brest on hardware and software imple
 
 My PhD thesis focused on the implementation of polar codes decoders. I proposed the fastest software implementation of the Adaptive SC List decoding algorithm to date. This implementation is integrated in the [AFF3CT](https://aff3ct.github.io) toolbox to which I actively contribute. I'm also part of the organisation committee of the next [ISTC 2023](https://istc2023.org) conference.
 
-I currently focus on efficient hardware and software implementations of Neural Networks, aiming at low latency and energy efficiency, through multiple industrial collaborations, and in the near future as the coordinator of a JCJC ANR project, [ProPruNN](https://www.imt-atlantique.fr/fr/recherche-innovation/collaborer/projet/proprunn).
+I currently focus on efficient hardware and software implementations of Neural Networks, aiming at low latency and energy efficiency, through multiple industrial collaborations, and as the coordinator of a JCJC ANR project, [ProPruNN](https://www.imt-atlantique.fr/fr/recherche-innovation/collaborer/projet/proprunn).
