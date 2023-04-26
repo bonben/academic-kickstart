@@ -1,5 +1,6 @@
 +++
 title = "Improving performance of SCMA MPA decoders using estimation of conditional probabilities"
+publishDate = 2017-01-01T00:00:00Z
 date = 2017-06-25T00:00:00Z
 authors = ['Alireza Ghaffari', 'Mathieu Leonardon', 'Yvon Savaria', 'Christophe Jego', 'Camille Leroux']
 publication_types = ["1"]

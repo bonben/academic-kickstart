@@ -1,5 +1,6 @@
 +++
 title = "A Flexible and Portable Real-time DVB-S2 Transceiver using Multicore and SIMD CPUs"
+publishDate = 2017-01-01T00:00:00Z
 date = 2021-08-30T00:00:00Z
 authors = ['Adrien Cassagne', 'Mathieu Leonardon', 'Romain Tajan', 'Camille Leroux', 'Christophe Jégo', 'Olivier Aumage', 'Denis Barthou']
 publication_types = ["1"]

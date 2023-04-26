@@ -1,5 +1,6 @@
 +++
 title = "Using Deep Neural Networks to Predict and Improve the Performance of Polar Codes"
+publishDate = 2017-01-01T00:00:00Z
 date = 2021-08-30T00:00:00Z
 authors = ['Mathieu Leonardon', 'Vincent Gripon']
 publication_types = ["1"]

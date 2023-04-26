@@ -1,5 +1,6 @@
 +++
 title = "Élagage de réseaux profond de neurones par dégradation sélective des pondérations"
+publishDate = 2017-01-01T00:00:00Z
 date = 2022-09-06T00:00:00Z
 authors = ['Hugo Tessier', 'Vincent Gripon', 'Mathieu Léonardon', 'Matthieu Arzel', 'Thomas Hannagan', 'David Bertrand']
 publication_types = ["1"]

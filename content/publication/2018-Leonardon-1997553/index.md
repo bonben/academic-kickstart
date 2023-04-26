@@ -1,5 +1,6 @@
 +++
 title = "Décodage de codes polaires sur des architectures programmables"
+publishDate = 2017-01-01T00:00:00Z
 date = 2018-12-13T00:00:00Z
 authors = ['Mathieu Leonardon']
 publication_types = ["7"]

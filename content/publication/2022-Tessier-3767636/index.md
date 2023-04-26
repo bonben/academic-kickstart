@@ -1,5 +1,6 @@
 +++
 title = "Energy Consumption Analysis of pruned Semantic Segmentation Networks on an Embedded GPU"
+publishDate = 2017-01-01T00:00:00Z
 date = 2022-09-07T00:00:00Z
 authors = ['Hugo Tessier', 'Vincent Gripon', 'Mathieu Léonardon', 'Matthieu Arzel', 'David Bertrand', 'Thomas Hannagan']
 publication_types = ["1"]

@@ -1,5 +1,6 @@
 +++
 title = "Custom Low Power Processor for Polar Decoding"
+publishDate = 2017-01-01T00:00:00Z
 date = 2018-05-27T00:00:00Z
 authors = ['Mathieu Leonardon', 'Camille Leroux', 'David Binet', 'J. M Pierre Langlois', 'Christophe Jego', 'Yvon Savaria']
 publication_types = ["1"]

@@ -1,5 +1,6 @@
 +++
 title = "Fast and Flexible Software Polar List Decoders"
+publishDate = 2017-01-01T00:00:00Z
 date = 2019-01-18T00:00:00Z
 authors = ['Mathieu Leonardon', 'Adrien Cassagne', 'Camille Leroux', 'Christophe Jego', 'Louis-Philippe Hamelin', 'Yvon Savaria']
 publication_types = ["2"]
@@ -7,5 +8,5 @@ abstract = "Flexibility is one mandatory aspect of channel coding in modern wire
 featured = true
 publication = "Journal of Signal Processing Systems (Springer)"
 doi = "10.1007/s11265-018-1430-3"
-url_pdf = "https://hal.inria.fr/hal-01987848/document"
+url_pdf = "https://inria.hal.science/hal-01987848/document"
 +++

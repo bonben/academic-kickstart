@@ -1,5 +1,6 @@
 +++
 title = "AFF3CT: A Fast Forward Error Correction Toolbox!"
+publishDate = 2017-01-01T00:00:00Z
 date = 2019-07-01T00:00:00Z
 authors = ['Adrien Cassagne', 'Olivier Hartmann', 'Mathieu Leonardon', 'Kun He', 'Camille Leroux', 'Romain Tajan', 'Olivier Aumage', 'Denis Barthou', 'Thibaud Tonnellier', 'Vincent Pignoly', 'Bertrand Le Gal', 'Christophe Jego']
 publication_types = ["2"]
@@ -8,5 +9,5 @@ featured = false
 publication = "SoftwareX (Elsevier)"
 tags = ['Monte Carlo simulation', 'Channel coding', 'Multi-threadVectorization', 'Multi-node', 'Reproducible science', 'Digital modulation', 'Communication chain', 'Forward error correction library']
 doi = "10.1016/j.softx.2019.100345"
-url_pdf = "https://hal.inria.fr/hal-02358306/document"
+url_pdf = "https://inria.hal.science/hal-02358306/document"
 +++
