@@ -21,10 +21,10 @@ organizations:
 bio: My research interests include software and hardware implementations of signal processing algorithms.
 
 interests:
-- Channel Coding
+- Neural Networks Compression
 - Embedded Electronics
+- Channel Coding
 - HPC
-- AI
 
 education:
   courses:
