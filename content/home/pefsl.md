@@ -3,12 +3,12 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 21  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
-title = "AFF3CT"
+title = "PEFSL"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "aff3ct.png"
+hero_media = "pefsl.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -20,8 +20,8 @@ hero_media = "aff3ct.png"
   #color = "Yellow"
 
   # Background gradient.
-  gradient_end = "#4bb4e3"
-  gradient_start = "#2b94c3"
+  gradient_start = "#a6cee3"
+  gradient_end = "#1F78B4"
 
   # Background image.
   # image = "aff3ct.png"  # Name of image in `static/img/`.
@@ -37,22 +37,22 @@ hero_media = "aff3ct.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://github.com/aff3ct/aff3ct"
+  url = "https://github.com/brain-bzh/PEFSL"
   label = "Source code on GitHub"
   icon_pack = "fab"
   icon = "github"
 
-[cta_alt]
-  url = "http://aff3ct.github.io/"
-  label = "Website"
+# [cta_alt]
+#  url = "http://aff3ct.github.io/"
+#  label = "Website"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a id="academic-release" href="https://github.com/aff3ct/aff3ct/releases/" data-repo="aff3ct/aff3ct">Latest release <!-- V --></a>'
+# [cta_note]
+#  label = '<a id="academic-release" href="https://github.com/aff3ct/aff3ct/releases/" data-repo="aff3ct/aff3ct">Latest release V</a>' -->
 +++
 
-**A Fast Forward Error Correction Toolbox**
+**A Pipeline for Embedded Few-Shot Learning**
 
-Simulate **high-throughput** communication chains.
+A modular pipeline for the training, compilation, hardware synthesis and deployment of a few-shot learning application on an FPGA SoC.
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/aff3ct/aff3ct" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+<span style="text-shadow: none;"><a class="github-button" href="https://github.com/brain-bzh/PEFSL" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>

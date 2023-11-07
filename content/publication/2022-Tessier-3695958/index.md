@@ -6,6 +6,6 @@ authors = ['Hugo Tessier', 'Vincent Gripon', 'Mathieu Léonardon', 'Matthieu Arz
 publication_types = ["1"]
 abstract = "Les réseaux de neurones profonds sont le standard incontournable de l'apprentissage automatique. Cependant, pour atteindre les meilleures performances, ils requièrent des millions de paramètres entraînables, résultant en des architectures lourdes en calculs et en mémoire, et donc peu adaptées à certains contextes applicatifs comme l'embarqué. L'élagage des paramètres pendant l'entraînement est une méthodologie fréquemment mise en oeuvre pour réduire ces coûts, mais il induit de nouveaux problèmes : effondrement soudain des performances à fort taux d'élagage, discontinuités entre les phases de l'entraînement... Dans ce papier nous introduisons la Pénalisation Sélective des Pondérations (PSP), une méthode inspirée du lissage lagrangien et permettant un élagage progressif et continu pendant l'entraînement. Nous montrons sur des jeux de données standards la capacité de cette méthode à atteindre les meilleures performances, notamment aux plus forts taux d'élagage."
 featured = false
-publication = "GRETSI 2022"
+publication = "GRETSI 2022 : 28ème colloque du Groupement de Recherche en Traitement du Signal et des Images"
 url_pdf = "https://hal.science/hal-03695958/document"
 +++
