@@ -1,6 +1,5 @@
 +++
 title = "Investigating the Not-So-Obvious Effects of Structured Pruning"
-publishDate = 2017-01-01T00:00:00Z
 date = 2022-07-23T00:00:00Z
 authors = ['Hugo Tessier', 'Vincent Gripon', 'Mathieu Léonardon', 'Matthieu Arzel', 'David Bertrand', 'Thomas Hannagan']
 publication_types = ["1"]

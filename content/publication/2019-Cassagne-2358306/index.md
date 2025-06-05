@@ -1,6 +1,5 @@
 +++
 title = "AFF3CT: A Fast Forward Error Correction Toolbox!"
-publishDate = 2017-01-01T00:00:00Z
 date = 2019-07-01T00:00:00Z
 authors = ['Adrien Cassagne', 'Olivier Hartmann', 'Mathieu Leonardon', 'Kun He', 'Camille Leroux', 'Romain Tajan', 'Olivier Aumage', 'Denis Barthou', 'Thibaud Tonnellier', 'Vincent Pignoly', 'Bertrand Le Gal', 'Christophe Jego']
 publication_types = ["2"]

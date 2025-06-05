@@ -1,6 +1,5 @@
 +++
 title = "Rethinking Weight Decay for Efficient Neural Network Pruning"
-publishDate = 2017-01-01T00:00:00Z
 date = 2022-03-01T00:00:00Z
 authors = ['Hugo Tessier', 'Vincent Gripon', 'Mathieu Leonardon', 'Matthieu Arzel', 'Thomas Hannagan', 'David Bertrand']
 publication_types = ["2"]

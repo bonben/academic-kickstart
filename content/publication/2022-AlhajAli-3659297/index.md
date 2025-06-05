@@ -1,6 +1,5 @@
 +++
 title = "MOL-based In-Memory Computing of Binary Neural Networks"
-publishDate = 2017-01-01T00:00:00Z
 date = 2022-07-01T00:00:00Z
 authors = ['Khaled Alhaj Ali', 'Amer Baghdadi', 'Elsa Dupraz', 'Mathieu Léonardon', 'Mostafa Rizk', 'Jean-Philippe Diguet']
 publication_types = ["2"]

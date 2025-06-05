@@ -1,6 +1,5 @@
 +++
 title = "Fast Simulation and Prototyping with AFF3CT"
-publishDate = 2017-01-01T00:00:00Z
 date = 2017-10-03T00:00:00Z
 authors = ['Adrien Cassagne', 'Olivier Hartmann', 'Mathieu Leonardon', 'Thibaud Tonnellier', 'Guillaume Delbergue', 'Camille Leroux', 'Romain Tajan', 'Bertrand Le Gal', 'Christophe Jego', 'Olivier Aumage', 'Denis Barthou']
 publication_types = ["1"]

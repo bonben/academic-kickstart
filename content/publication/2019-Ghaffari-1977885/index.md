@@ -1,6 +1,5 @@
 +++
 title = "Toward High-Performance Implementation of 5G SCMA Algorithms"
-publishDate = 2017-01-01T00:00:00Z
 date = 2019-01-09T00:00:00Z
 authors = ['Alireza Ghaffari', 'Mathieu Leonardon', 'Adrien Cassagne', 'Camille Leroux', 'Yvon Savaria']
 publication_types = ["2"]

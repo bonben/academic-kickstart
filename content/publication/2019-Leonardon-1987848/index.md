@@ -1,6 +1,5 @@
 +++
 title = "Fast and Flexible Software Polar List Decoders"
-publishDate = 2017-01-01T00:00:00Z
 date = 2019-01-18T00:00:00Z
 authors = ['Mathieu Leonardon', 'Adrien Cassagne', 'Camille Leroux', 'Christophe Jego', 'Louis-Philippe Hamelin', 'Yvon Savaria']
 publication_types = ["2"]
