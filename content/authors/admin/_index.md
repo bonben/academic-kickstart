@@ -71,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-I conduct research at the IMT Atlantique in Brest on hardware and software implementations of signal processing and AI algorithms. I teach computer engineering and digital electronics.
+I conduct research at IMT Atlantique in Brest, in the [BRAIN team](https://brain.bzh) of the Lab-STICC, on hardware and software implementations of signal processing and AI algorithms. I teach computer engineering and digital electronics.
 
 My PhD thesis focused on the implementation of polar codes decoders. I proposed the fastest software implementation of the Adaptive SC List decoding algorithm to date. This implementation is integrated in the [AFF3CT](https://aff3ct.github.io) toolbox to which I actively contribute.
 
